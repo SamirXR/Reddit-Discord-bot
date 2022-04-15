@@ -23,11 +23,11 @@
   "homepage": "https://xr7-glitch.me",
   "dependencies": {
     "discord.js": "^11.0.0",
-    "dotenv": "^2.0.0",
-    "entities": "^1.1.1",
+    "dotenv": "^16.0.0",
+    "entities": "^4.2.0",
     "request": "^2.74.0 ",
     "valid-url": "^1.0.9",
-    "winston": "^2.2.0"
+    "winston": "^3.7.2"
   },
   "devDependencies": {
     "eslint": "^3.2.0",
