@@ -15,12 +15,12 @@
     "type": "git",
     "url": "git@github.com:zikeji/discord-reddit-feed-bot.git"
   },
-  "author": "XR7 <caleb@blankemeyer.us>",
+  "author": "XR7 <XR7'#9678>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zikeji/discord-reddit-feed-bot/issues"
+    "url": "https://github.com/XR7-Samir"
   },
-  "homepage": "https://www.github.com/zikeji/discord-reddit-feed-bot",
+  "homepage": "https://xr7-glitch.me",
   "dependencies": {
     "discord.js": "^11.0.0",
     "dotenv": "^2.0.0",
